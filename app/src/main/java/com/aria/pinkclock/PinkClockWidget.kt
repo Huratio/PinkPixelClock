@@ -1,4 +1,3 @@
-\
 package com.aria.pinkclock
 
 import android.app.AlarmManager
